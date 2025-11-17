@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "FiresUnderTheAztecSkySrc/FiresUnderTheAztecSkyAssets/FiresUnderTheAztecSkyFonts/Manrope-Regular.ttf",
+      "sha1": "3f36e4904a42d23273ac346047c1b6bcf067ccfc"
+    },
+    {
+      "path": "FiresUnderTheAztecSkySrc/FiresUnderTheAztecSkyAssets/FiresUnderTheAztecSkyFonts/Manrope-SemiBold.ttf",
+      "sha1": "f7a023cd6c102b2ffa8bf729579552445970d62d"
+    },
+    {
+      "path": "FiresUnderTheAztecSkySrc/FiresUnderTheAztecSkyAssets/FiresUnderTheAztecSkyFonts/SF-Pro-Display-Medium.otf",
+      "sha1": "a5f5e08dd38cac2f857fb7510f7e92a2399b6f5c"
+    },
+    {
+      "path": "FiresUnderTheAztecSkySrc/FiresUnderTheAztecSkyAssets/FiresUnderTheAztecSkyFonts/SF-Pro-Display-Regular.otf",
+      "sha1": "e19df199e78d296e5b6491d4832a76756532ed43"
+    },
+    {
+      "path": "FiresUnderTheAztecSkySrc/FiresUnderTheAztecSkyAssets/FiresUnderTheAztecSkyFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "FiresUnderTheAztecSkySrc/FiresUnderTheAztecSkyAssets/FiresUnderTheAztecSkyFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    }
+  ]
+}
